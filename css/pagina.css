@@ -3,7 +3,7 @@ html{
 }
 
 body{
-    margin: 0;
+    margin: 5px;
 }
 
 a{
@@ -13,8 +13,13 @@ a{
 .header{
     padding: 12px 24px;
     background-color: #eaecf0;
-    max-width: 40em;
+    max-width: none;
     margin: 0 auto;
+}
+
+.header-content{
+    margin: 0 .1em 0 0;
+
 }
 
 .logo-figure{
